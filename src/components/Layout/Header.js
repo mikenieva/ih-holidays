@@ -16,15 +16,7 @@ export default function Header() {
 						</Link>
 						<div className="ml-10 space-x-8 lg:block">
 							<Link to="/" className="text-base font-medium text-white hover:text-indigo-50">
-								Inicio
-							</Link>
-
-							<Link to="/crud" className="text-base font-medium text-white hover:text-indigo-50">
-								CRUD
-							</Link>
-
-							<Link to="/countries" className="text-base font-medium text-white hover:text-indigo-50">
-								Países
+								Noticias
 							</Link>
 						</div>
 					</div>
