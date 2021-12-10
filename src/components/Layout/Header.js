@@ -16,7 +16,7 @@ export default function Header() {
 						</Link>
 						<div className="ml-10 space-x-8 lg:block">
 							<Link to="/" className="text-base font-medium text-white hover:text-indigo-50">
-								Noticias
+								News
 							</Link>
 						</div>
 					</div>
